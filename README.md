@@ -1,4 +1,5 @@
-<h1>Exercicios de fixação para o JS</h1>
-###
-<p>exercicios baseados no conteudo do canal origamid</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Exercicios de fixação para o JS
+##
+<a href="https://youtube.com/playlist?list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt">- exercicios baseados no conteudo do canal origamid</a>
+<p>tendo como principal objetivo a fixação das principais bases do javascript voltadas para a utilização de um framework (vue/reach/angular)</p>
+
